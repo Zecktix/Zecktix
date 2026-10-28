@@ -6,7 +6,7 @@ I design and build whatever I find interesting.
 
 If I think of an idea, chances are I'll build it.
 
-My main tech stack is python, java, PyCharm, and VScode. My favorite tools are Figma, Cursor.
+My main tech stack is python, java, PyCharm, and VScode. My favorite tools are Figma and Cursor.
 
 I've got a few projects on here, my favorite is the Momentum task tracker which I use daily. 
 
