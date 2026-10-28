@@ -1,4 +1,4 @@
-<h1>Hey there 🤗</h1>
+<h2>Hey there 🤗</h2>
 
 I'm Riley, a software engineer based in Pennsylvania. 
 
