@@ -12,7 +12,7 @@ I've got a few projects on here, my favorite is the Momentum task tracker which 
 
 I haven't built a ton yet, but I look to further expand my repos.
 
-Fun Facts:
+<srtong>Fun Facts:</strong>
 
 • I have a French bulldog <br>
 • I love tea <br>
