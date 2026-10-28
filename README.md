@@ -16,7 +16,7 @@ If interested in hiring for freelance or full-time roll: <a href="https://www.li
 
 <strong>Fun Facts:</strong>
 
-• I have a French bulldog <br>
-• I love tea <br>
-• Chainsaw Man is my favorite anime <br>
-• <strong>Hobbies: </strong> anime, gym, skiing, golf, building things
+  • I have a French bulldog <br>
+  • I love tea <br>
+  • Chainsaw Man is my favorite anime <br>
+  • <strong>Hobbies: </strong> anime, gym, skiing, golf, building things
