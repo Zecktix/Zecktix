@@ -1,6 +1,6 @@
 <h2>Hey there 🤗</h2>
 
-I'm Riley, a software engineer based in Pennsylvania. 
+I'm <a href="https://github.com/Zecktix/Zecktix/projects">Riley</a>, a software engineer based in Pennsylvania. 
 
 I design and build whatever I find interesting. 
 
