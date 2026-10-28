@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey there 🤗
 
-<!--
-**Zecktix/Zecktix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Riley, a software engineer based in Pennsylvania. 
 
-Here are some ideas to get you started:
+I design and build whatever I find interesting. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I think of an idea, chances are I'll build it.
+
+My main tech stack is python, java, PyCharm, and VScode. My favorite tools are Figma, Cursor.\
+
+I've got a few projects on here, my favorite is the Momentum task tracker which I use daily. 
+
+I haven't built a ton yet, but I look to further expand my repos.
+
+Fun Facts:
+
+• I have a French bulldog
+• I love tea
+• Chainsaw Man is my favorite anime
+• <strong>Hobbies: </strong> anime, gym, skiing, golf, building things
